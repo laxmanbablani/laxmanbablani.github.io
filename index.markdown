@@ -4,5 +4,6 @@
 
 layout: home
 ---
+This is my home!
 
-This is the index.
+This will keep updating. Hopefully?~
