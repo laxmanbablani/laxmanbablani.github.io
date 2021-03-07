@@ -30,7 +30,7 @@ twitter_username: laxmanb
 github_username:  laxmanbablani
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
